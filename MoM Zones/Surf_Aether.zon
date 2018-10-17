@@ -1,0 +1,35 @@
+"Surf_Aether"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-9216.000000"
+		"ypos"		"8320.000000"
+		"zpos"		"13788.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-160.000000"
+		"yScaleMins"		"-128.000000"
+		"zScaleMins"		"-60.000000"
+		"xScaleMaxs"		"160.000000"
+		"yScaleMaxs"		"128.000000"
+		"zScaleMaxs"		"60.000000"
+	}
+	"end"
+	{
+		"xpos"		"-9216.000000"
+		"ypos"		"8320.000000"
+		"zpos"		"13804.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-160.000000"
+		"yScaleMins"		"-128.000000"
+		"zScaleMins"		"-76.000000"
+		"xScaleMaxs"		"160.000000"
+		"yScaleMaxs"		"128.000000"
+		"zScaleMaxs"		"76.000000"
+	}
+}

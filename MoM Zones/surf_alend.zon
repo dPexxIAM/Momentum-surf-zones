@@ -1,0 +1,35 @@
+"surf_alend"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-2048.000000"
+		"ypos"		"7200.000000"
+		"zpos"		"7332.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-928.000000"
+		"yScaleMins"		"-96.000000"
+		"zScaleMins"		"-100.000000"
+		"xScaleMaxs"		"928.000000"
+		"yScaleMaxs"		"96.000000"
+		"zScaleMaxs"		"100.000000"
+	}
+	"end"
+	{
+		"xpos"		"1588.000000"
+		"ypos"		"9816.000000"
+		"zpos"		"-4132.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-140.000000"
+		"yScaleMins"		"-296.000000"
+		"zScaleMins"		"-156.000000"
+		"xScaleMaxs"		"140.000000"
+		"yScaleMaxs"		"296.000000"
+		"zScaleMaxs"		"156.000000"
+	}
+}

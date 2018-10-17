@@ -1,0 +1,35 @@
+"surf_funhouse_static"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-3616.000000"
+		"ypos"		"12544.000000"
+		"zpos"		"14128.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-288.000000"
+		"yScaleMins"		"-2880.000000"
+		"zScaleMins"		"-176.000000"
+		"xScaleMaxs"		"288.000000"
+		"yScaleMaxs"		"2880.000000"
+		"zScaleMaxs"		"176.000000"
+	}
+	"end"
+	{
+		"xpos"		"1648.000000"
+		"ypos"		"-10268.000000"
+		"zpos"		"6236.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-168.000000"
+		"yScaleMins"		"-964.000000"
+		"zScaleMins"		"-884.000000"
+		"xScaleMaxs"		"168.000000"
+		"yScaleMaxs"		"964.000000"
+		"zScaleMaxs"		"884.000000"
+	}
+}

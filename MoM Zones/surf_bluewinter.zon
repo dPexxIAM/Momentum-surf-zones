@@ -1,0 +1,35 @@
+"surf_bluewinter"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"32.000000"
+		"ypos"		"15584.000000"
+		"zpos"		"3080.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-832.000000"
+		"yScaleMins"		"-96.000000"
+		"zScaleMins"		"-72.000000"
+		"xScaleMaxs"		"832.000000"
+		"yScaleMaxs"		"96.000000"
+		"zScaleMaxs"		"72.000000"
+	}
+	"end"
+	{
+		"xpos"		"-3400.000000"
+		"ypos"		"1800.000000"
+		"zpos"		"5192.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-312.000000"
+		"yScaleMins"		"-408.000000"
+		"zScaleMins"		"-120.000000"
+		"xScaleMaxs"		"312.000000"
+		"yScaleMaxs"		"408.000000"
+		"zScaleMaxs"		"120.000000"
+	}
+}

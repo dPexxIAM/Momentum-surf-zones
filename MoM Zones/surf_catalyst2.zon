@@ -1,0 +1,35 @@
+"surf_catalyst2"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-4164.000000"
+		"ypos"		"13908.000000"
+		"zpos"		"7204.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-204.000000"
+		"yScaleMins"		"-572.000000"
+		"zScaleMins"		"-60.000000"
+		"xScaleMaxs"		"204.000000"
+		"yScaleMaxs"		"572.000000"
+		"zScaleMaxs"		"60.000000"
+	}
+	"end"
+	{
+		"xpos"		"-7140.000000"
+		"ypos"		"10784.000000"
+		"zpos"		"-12752.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-572.000000"
+		"yScaleMins"		"-272.000000"
+		"zScaleMins"		"-208.000000"
+		"xScaleMaxs"		"572.000000"
+		"yScaleMaxs"		"272.000000"
+		"zScaleMaxs"		"208.000000"
+	}
+}

@@ -1,0 +1,35 @@
+"surf_christmas"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-14336.000000"
+		"ypos"		"-8928.000000"
+		"zpos"		"14656.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-96.000000"
+		"yScaleMins"		"-96.000000"
+		"zScaleMins"		"-0.000000"
+		"xScaleMaxs"		"96.000000"
+		"yScaleMaxs"		"96.000000"
+		"zScaleMaxs"		"0.000000"
+	}
+	"end"
+	{
+		"xpos"		"8772.000000"
+		"ypos"		"-440.000000"
+		"zpos"		"-8620.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-348.000000"
+		"yScaleMins"		"-120.000000"
+		"zScaleMins"		"-148.000000"
+		"xScaleMaxs"		"348.000000"
+		"yScaleMaxs"		"120.000000"
+		"zScaleMaxs"		"148.000000"
+	}
+}

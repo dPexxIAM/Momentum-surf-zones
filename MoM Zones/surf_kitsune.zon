@@ -1,0 +1,35 @@
+"surf_kitsune"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-15104.000000"
+		"ypos"		"14788.000000"
+		"zpos"		"10840.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-392.000000"
+		"yScaleMins"		"-116.000000"
+		"zScaleMins"		"-56.000000"
+		"xScaleMaxs"		"392.000000"
+		"yScaleMaxs"		"116.000000"
+		"zScaleMaxs"		"56.000000"
+	}
+	"end"
+	{
+		"xpos"		"-15792.000000"
+		"ypos"		"10192.000000"
+		"zpos"		"-11788.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-272.000000"
+		"yScaleMins"		"-408.000000"
+		"zScaleMins"		"-148.000000"
+		"xScaleMaxs"		"272.000000"
+		"yScaleMaxs"		"408.000000"
+		"zScaleMaxs"		"148.000000"
+	}
+}

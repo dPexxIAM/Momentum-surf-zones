@@ -1,0 +1,35 @@
+"surf_iceworld"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-14068.000000"
+		"ypos"		"-4728.000000"
+		"zpos"		"4840.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-180.000000"
+		"yScaleMins"		"-1024.000000"
+		"zScaleMins"		"-96.000000"
+		"xScaleMaxs"		"180.000000"
+		"yScaleMaxs"		"1024.000000"
+		"zScaleMaxs"		"96.000000"
+	}
+	"end"
+	{
+		"xpos"		"5992.000000"
+		"ypos"		"-4768.000000"
+		"zpos"		"-8680.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-344.000000"
+		"yScaleMins"		"-552.000000"
+		"zScaleMins"		"-304.000000"
+		"xScaleMaxs"		"344.000000"
+		"yScaleMaxs"		"552.000000"
+		"zScaleMaxs"		"304.000000"
+	}
+}

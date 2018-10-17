@@ -1,0 +1,35 @@
+"surf_aqua"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-4168.000000"
+		"ypos"		"8960.000000"
+		"zpos"		"12280.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-120.000000"
+		"yScaleMins"		"-640.000000"
+		"zScaleMins"		"-56.000000"
+		"xScaleMaxs"		"120.000000"
+		"yScaleMaxs"		"640.000000"
+		"zScaleMaxs"		"56.000000"
+	}
+	"end"
+	{
+		"xpos"		"-13952.000000"
+		"ypos"		"-12544.000000"
+		"zpos"		"-8208.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-640.000000"
+		"yScaleMins"		"-448.000000"
+		"zScaleMins"		"-304.000000"
+		"xScaleMaxs"		"640.000000"
+		"yScaleMaxs"		"448.000000"
+		"zScaleMaxs"		"304.000000"
+	}
+}

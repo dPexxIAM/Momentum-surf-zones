@@ -1,0 +1,35 @@
+"surf_drifting"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-15232.000000"
+		"ypos"		"14208.000000"
+		"zpos"		"15200.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-128.000000"
+		"yScaleMins"		"-640.000000"
+		"zScaleMins"		"-96.000000"
+		"xScaleMaxs"		"128.000000"
+		"yScaleMaxs"		"640.000000"
+		"zScaleMaxs"		"96.000000"
+	}
+	"end"
+	{
+		"xpos"		"-1152.000000"
+		"ypos"		"3328.000000"
+		"zpos"		"-7744.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-1536.000000"
+		"yScaleMins"		"-512.000000"
+		"zScaleMins"		"-448.000000"
+		"xScaleMaxs"		"1536.000000"
+		"yScaleMaxs"		"512.000000"
+		"zScaleMaxs"		"448.000000"
+	}
+}

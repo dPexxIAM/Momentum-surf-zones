@@ -1,0 +1,35 @@
+"surf_adventure_easy"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-8000.000000"
+		"ypos"		"-2176.000000"
+		"zpos"		"8944.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-128.000000"
+		"yScaleMins"		"-64.000000"
+		"zScaleMins"		"-48.000000"
+		"xScaleMaxs"		"128.000000"
+		"yScaleMaxs"		"64.000000"
+		"zScaleMaxs"		"48.000000"
+	}
+	"end"
+	{
+		"xpos"		"14336.000000"
+		"ypos"		"2432.000000"
+		"zpos"		"-244.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-1024.000000"
+		"yScaleMins"		"-192.000000"
+		"zScaleMins"		"-332.000000"
+		"xScaleMaxs"		"1024.000000"
+		"yScaleMaxs"		"192.000000"
+		"zScaleMaxs"		"332.000000"
+	}
+}

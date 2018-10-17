@@ -1,0 +1,35 @@
+"surf_eclipse"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"4860.000000"
+		"ypos"		"-2396.000000"
+		"zpos"		"1976.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-276.000000"
+		"yScaleMins"		"-268.000000"
+		"zScaleMins"		"-80.000000"
+		"xScaleMaxs"		"276.000000"
+		"yScaleMaxs"		"268.000000"
+		"zScaleMaxs"		"80.000000"
+	}
+	"end"
+	{
+		"xpos"		"4964.000000"
+		"ypos"		"-14300.000000"
+		"zpos"		"-3624.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-556.000000"
+		"yScaleMins"		"-540.000000"
+		"zScaleMins"		"-224.000000"
+		"xScaleMaxs"		"556.000000"
+		"yScaleMaxs"		"540.000000"
+		"zScaleMaxs"		"224.000000"
+	}
+}

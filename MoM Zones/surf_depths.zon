@@ -1,0 +1,35 @@
+"surf_depths"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"8040.000000"
+		"ypos"		"10256.000000"
+		"zpos"		"14768.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-168.000000"
+		"yScaleMins"		"-512.000000"
+		"zScaleMins"		"-144.000000"
+		"xScaleMaxs"		"168.000000"
+		"yScaleMaxs"		"512.000000"
+		"zScaleMaxs"		"144.000000"
+	}
+	"end"
+	{
+		"xpos"		"-6996.000000"
+		"ypos"		"-4024.000000"
+		"zpos"		"-5968.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-132.000000"
+		"yScaleMins"		"-136.000000"
+		"zScaleMins"		"-4072.000000"
+		"xScaleMaxs"		"132.000000"
+		"yScaleMaxs"		"136.000000"
+		"zScaleMaxs"		"4072.000000"
+	}
+}

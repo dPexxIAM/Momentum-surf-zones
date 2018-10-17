@@ -1,0 +1,35 @@
+"surf_legends"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"6624.000000"
+		"ypos"		"8796.000000"
+		"zpos"		"12432.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-192.000000"
+		"yScaleMins"		"-252.000000"
+		"zScaleMins"		"-80.000000"
+		"xScaleMaxs"		"192.000000"
+		"yScaleMaxs"		"252.000000"
+		"zScaleMaxs"		"80.000000"
+	}
+	"end"
+	{
+		"xpos"		"8656.000000"
+		"ypos"		"-9972.000000"
+		"zpos"		"-2488.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-496.000000"
+		"yScaleMins"		"-572.000000"
+		"zScaleMins"		"-376.000000"
+		"xScaleMaxs"		"496.000000"
+		"yScaleMaxs"		"572.000000"
+		"zScaleMaxs"		"376.000000"
+	}
+}

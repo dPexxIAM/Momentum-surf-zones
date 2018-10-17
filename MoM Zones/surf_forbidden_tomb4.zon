@@ -1,0 +1,35 @@
+"surf_forbidden_tomb4"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"3184.000000"
+		"ypos"		"-8232.000000"
+		"zpos"		"14332.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-240.000000"
+		"yScaleMins"		"-104.000000"
+		"zScaleMins"		"-60.000000"
+		"xScaleMaxs"		"240.000000"
+		"yScaleMaxs"		"104.000000"
+		"zScaleMaxs"		"60.000000"
+	}
+	"end"
+	{
+		"xpos"		"-8380.000000"
+		"ypos"		"548.000000"
+		"zpos"		"-14756.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-572.000000"
+		"yScaleMins"		"-28.000000"
+		"zScaleMins"		"-556.000000"
+		"xScaleMaxs"		"572.000000"
+		"yScaleMaxs"		"28.000000"
+		"zScaleMaxs"		"556.000000"
+	}
+}

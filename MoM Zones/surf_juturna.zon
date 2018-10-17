@@ -1,0 +1,35 @@
+"surf_juturna"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"3744.000000"
+		"ypos"		"0.000000"
+		"zpos"		"4912.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-88.000000"
+		"yScaleMins"		"-384.000000"
+		"zScaleMins"		"-72.000000"
+		"xScaleMaxs"		"88.000000"
+		"yScaleMaxs"		"384.000000"
+		"zScaleMaxs"		"72.000000"
+	}
+	"end"
+	{
+		"xpos"		"-128.000000"
+		"ypos"		"0.000000"
+		"zpos"		"-13372.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-384.000000"
+		"yScaleMins"		"-544.000000"
+		"zScaleMins"		"-68.000000"
+		"xScaleMaxs"		"384.000000"
+		"yScaleMaxs"		"544.000000"
+		"zScaleMaxs"		"68.000000"
+	}
+}

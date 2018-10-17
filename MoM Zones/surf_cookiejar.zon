@@ -1,0 +1,35 @@
+"surf_cookiejar"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"0"
+		"xpos"		"-5884.000000"
+		"ypos"		"-4168.000000"
+		"zpos"		"12752.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-100.000000"
+		"yScaleMins"		"-88.000000"
+		"zScaleMins"		"-48.000000"
+		"xScaleMaxs"		"100.000000"
+		"yScaleMaxs"		"88.000000"
+		"zScaleMaxs"		"48.000000"
+	}
+	"end"
+	{
+		"xpos"		"-212.000000"
+		"ypos"		"12304.000000"
+		"zpos"		"-4700.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-388.000000"
+		"yScaleMins"		"-456.000000"
+		"zScaleMins"		"-404.000000"
+		"xScaleMaxs"		"388.000000"
+		"yScaleMaxs"		"456.000000"
+		"zScaleMaxs"		"404.000000"
+	}
+}

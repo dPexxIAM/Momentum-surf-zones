@@ -1,0 +1,35 @@
+"surf_aircontrol_v2"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-2272.000000"
+		"ypos"		"-9592.000000"
+		"zpos"		"14416.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-288.000000"
+		"yScaleMins"		"-344.000000"
+		"zScaleMins"		"-80.000000"
+		"xScaleMaxs"		"288.000000"
+		"yScaleMaxs"		"344.000000"
+		"zScaleMaxs"		"80.000000"
+	}
+	"end"
+	{
+		"xpos"		"12224.000000"
+		"ypos"		"3272.000000"
+		"zpos"		"-14052.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-2232.000000"
+		"yScaleMins"		"-1400.000000"
+		"zScaleMins"		"-172.000000"
+		"xScaleMaxs"		"2232.000000"
+		"yScaleMaxs"		"1400.000000"
+		"zScaleMaxs"		"172.000000"
+	}
+}

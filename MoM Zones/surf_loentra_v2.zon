@@ -1,0 +1,35 @@
+"surf_loentra_v2"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-10048.000000"
+		"ypos"		"10352.000000"
+		"zpos"		"15772.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-288.000000"
+		"yScaleMins"		"-152.000000"
+		"zScaleMins"		"-100.000000"
+		"xScaleMaxs"		"288.000000"
+		"yScaleMaxs"		"152.000000"
+		"zScaleMaxs"		"100.000000"
+	}
+	"end"
+	{
+		"xpos"		"12184.000000"
+		"ypos"		"-11688.000000"
+		"zpos"		"-14540.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-160.000000"
+		"yScaleMins"		"-424.000000"
+		"zScaleMins"		"-220.000000"
+		"xScaleMaxs"		"160.000000"
+		"yScaleMaxs"		"424.000000"
+		"zScaleMaxs"		"220.000000"
+	}
+}

@@ -1,0 +1,35 @@
+"surf_calibration"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"384.000000"
+		"ypos"		"12592.000000"
+		"zpos"		"14332.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-408.000000"
+		"yScaleMins"		"-128.000000"
+		"zScaleMins"		"-60.000000"
+		"xScaleMaxs"		"408.000000"
+		"yScaleMaxs"		"128.000000"
+		"zScaleMaxs"		"60.000000"
+	}
+	"end"
+	{
+		"xpos"		"-4480.000000"
+		"ypos"		"9124.000000"
+		"zpos"		"-10992.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-464.000000"
+		"yScaleMins"		"-228.000000"
+		"zScaleMins"		"-272.000000"
+		"xScaleMaxs"		"464.000000"
+		"yScaleMaxs"		"228.000000"
+		"zScaleMaxs"		"272.000000"
+	}
+}
