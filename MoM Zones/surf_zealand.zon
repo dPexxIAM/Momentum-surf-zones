@@ -1,0 +1,35 @@
+"surf_zealand"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"0.000000"
+		"ypos"		"2236.000000"
+		"zpos"		"12248.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-384.000000"
+		"yScaleMins"		"-148.000000"
+		"zScaleMins"		"-88.000000"
+		"xScaleMaxs"		"384.000000"
+		"yScaleMaxs"		"148.000000"
+		"zScaleMaxs"		"88.000000"
+	}
+	"end"
+	{
+		"xpos"		"0.000000"
+		"ypos"		"-7712.000000"
+		"zpos"		"-5440.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-2688.000000"
+		"yScaleMins"		"-672.000000"
+		"zScaleMins"		"-960.000000"
+		"xScaleMaxs"		"2688.000000"
+		"yScaleMaxs"		"672.000000"
+		"zScaleMaxs"		"960.000000"
+	}
+}

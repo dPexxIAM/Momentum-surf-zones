@@ -1,0 +1,35 @@
+"surf_togo"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-6348.000000"
+		"ypos"		"5456.000000"
+		"zpos"		"-796.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-76.000000"
+		"yScaleMins"		"-128.000000"
+		"zScaleMins"		"-68.000000"
+		"xScaleMaxs"		"76.000000"
+		"yScaleMaxs"		"128.000000"
+		"zScaleMaxs"		"68.000000"
+	}
+	"end"
+	{
+		"xpos"		"-1964.000000"
+		"ypos"		"508.000000"
+		"zpos"		"-14656.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-124.000000"
+		"yScaleMins"		"-188.000000"
+		"zScaleMins"		"-96.000000"
+		"xScaleMaxs"		"124.000000"
+		"yScaleMaxs"		"188.000000"
+		"zScaleMaxs"		"96.000000"
+	}
+}

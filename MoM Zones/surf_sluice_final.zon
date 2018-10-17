@@ -1,0 +1,35 @@
+"surf_sluice_final"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-6016.000000"
+		"ypos"		"-13548.000000"
+		"zpos"		"14908.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-128.000000"
+		"yScaleMins"		"-76.000000"
+		"zScaleMins"		"-60.000000"
+		"xScaleMaxs"		"128.000000"
+		"yScaleMaxs"		"76.000000"
+		"zScaleMaxs"		"60.000000"
+	}
+	"end"
+	{
+		"xpos"		"10432.000000"
+		"ypos"		"-13952.000000"
+		"zpos"		"1248.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-672.000000"
+		"yScaleMins"		"-512.000000"
+		"zScaleMins"		"-384.000000"
+		"xScaleMaxs"		"672.000000"
+		"yScaleMaxs"		"512.000000"
+		"zScaleMaxs"		"384.000000"
+	}
+}

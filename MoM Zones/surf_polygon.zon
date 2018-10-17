@@ -1,0 +1,35 @@
+"surf_polygon"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"8192.000000"
+		"ypos"		"-2048.000000"
+		"zpos"		"6176.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-128.000000"
+		"yScaleMins"		"-128.000000"
+		"zScaleMins"		"-32.000000"
+		"xScaleMaxs"		"128.000000"
+		"yScaleMaxs"		"128.000000"
+		"zScaleMaxs"		"32.000000"
+	}
+	"end"
+	{
+		"xpos"		"-8192.000000"
+		"ypos"		"15104.000000"
+		"zpos"		"-480.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-256.000000"
+		"yScaleMins"		"-256.000000"
+		"zScaleMins"		"-128.000000"
+		"xScaleMaxs"		"256.000000"
+		"yScaleMaxs"		"256.000000"
+		"zScaleMaxs"		"128.000000"
+	}
+}

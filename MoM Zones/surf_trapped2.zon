@@ -1,0 +1,35 @@
+"surf_trapped2"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-13536.000000"
+		"ypos"		"9744.000000"
+		"zpos"		"14416.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-512.000000"
+		"yScaleMins"		"-1648.000000"
+		"zScaleMins"		"-144.000000"
+		"xScaleMaxs"		"512.000000"
+		"yScaleMaxs"		"1648.000000"
+		"zScaleMaxs"		"144.000000"
+	}
+	"end"
+	{
+		"xpos"		"10288.000000"
+		"ypos"		"13056.000000"
+		"zpos"		"-4616.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-2800.000000"
+		"yScaleMins"		"-512.000000"
+		"zScaleMins"		"-504.000000"
+		"xScaleMaxs"		"2800.000000"
+		"yScaleMaxs"		"512.000000"
+		"zScaleMaxs"		"504.000000"
+	}
+}

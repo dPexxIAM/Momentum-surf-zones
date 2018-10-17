@@ -1,0 +1,35 @@
+"surf_underworld"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"8504.000000"
+		"ypos"		"-13708.000000"
+		"zpos"		"14984.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-184.000000"
+		"yScaleMins"		"-100.000000"
+		"zScaleMins"		"-128.000000"
+		"xScaleMaxs"		"184.000000"
+		"yScaleMaxs"		"100.000000"
+		"zScaleMaxs"		"128.000000"
+	}
+	"end"
+	{
+		"xpos"		"9692.000000"
+		"ypos"		"-14688.000000"
+		"zpos"		"-15380.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-276.000000"
+		"yScaleMins"		"-488.000000"
+		"zScaleMins"		"-228.000000"
+		"xScaleMaxs"		"276.000000"
+		"yScaleMaxs"		"488.000000"
+		"zScaleMaxs"		"228.000000"
+	}
+}

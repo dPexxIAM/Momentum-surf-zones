@@ -1,0 +1,35 @@
+"surf_utopia_njv"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"0"
+		"xpos"		"-14040.000000"
+		"ypos"		"0.000000"
+		"zpos"		"13016.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-280.000000"
+		"yScaleMins"		"-512.000000"
+		"zScaleMins"		"-216.000000"
+		"xScaleMaxs"		"280.000000"
+		"yScaleMaxs"		"512.000000"
+		"zScaleMaxs"		"216.000000"
+	}
+	"end"
+	{
+		"xpos"		"-14088.000000"
+		"ypos"		"4.000000"
+		"zpos"		"-6044.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-248.000000"
+		"yScaleMins"		"-1012.000000"
+		"zScaleMins"		"-180.000000"
+		"xScaleMaxs"		"248.000000"
+		"yScaleMaxs"		"1012.000000"
+		"zScaleMaxs"		"180.000000"
+	}
+}

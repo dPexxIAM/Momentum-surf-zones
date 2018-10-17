@@ -1,0 +1,35 @@
+"surf_mesa_mine"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"0.000000"
+		"ypos"		"-13904.000000"
+		"zpos"		"15072.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-112.000000"
+		"yScaleMins"		"-112.000000"
+		"zScaleMins"		"-48.000000"
+		"xScaleMaxs"		"112.000000"
+		"yScaleMaxs"		"112.000000"
+		"zScaleMaxs"		"48.000000"
+	}
+	"end"
+	{
+		"xpos"		"14336.000000"
+		"ypos"		"-4344.000000"
+		"zpos"		"-15284.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-400.000000"
+		"yScaleMins"		"-400.000000"
+		"zScaleMins"		"-92.000000"
+		"xScaleMaxs"		"400.000000"
+		"yScaleMaxs"		"400.000000"
+		"zScaleMaxs"		"92.000000"
+	}
+}

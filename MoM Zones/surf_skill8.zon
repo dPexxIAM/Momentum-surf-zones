@@ -1,0 +1,35 @@
+"surf_skill8"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"512.000000"
+		"ypos"		"7488.000000"
+		"zpos"		"15808.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-128.000000"
+		"yScaleMins"		"-64.000000"
+		"zScaleMins"		"-64.000000"
+		"xScaleMaxs"		"128.000000"
+		"yScaleMaxs"		"64.000000"
+		"zScaleMaxs"		"64.000000"
+	}
+	"end"
+	{
+		"xpos"		"-2048.000000"
+		"ypos"		"7168.000000"
+		"zpos"		"15040.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-448.000000"
+		"yScaleMins"		"-448.000000"
+		"zScaleMins"		"-128.000000"
+		"xScaleMaxs"		"448.000000"
+		"yScaleMaxs"		"448.000000"
+		"zScaleMaxs"		"128.000000"
+	}
+}

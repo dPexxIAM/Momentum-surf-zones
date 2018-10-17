@@ -1,0 +1,35 @@
+"surf_sinsane"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"14064.000000"
+		"ypos"		"1020.000000"
+		"zpos"		"13840.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-240.000000"
+		"yScaleMins"		"-380.000000"
+		"zScaleMins"		"-72.000000"
+		"xScaleMaxs"		"240.000000"
+		"yScaleMaxs"		"380.000000"
+		"zScaleMaxs"		"72.000000"
+	}
+	"end"
+	{
+		"xpos"		"2532.000000"
+		"ypos"		"1044.000000"
+		"zpos"		"336.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-204.000000"
+		"yScaleMins"		"-204.000000"
+		"zScaleMins"		"-112.000000"
+		"xScaleMaxs"		"204.000000"
+		"yScaleMaxs"		"204.000000"
+		"zScaleMaxs"		"112.000000"
+	}
+}

@@ -1,0 +1,35 @@
+"surf_network_2009"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"0.000000"
+		"ypos"		"-128.000000"
+		"zpos"		"136.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-256.000000"
+		"yScaleMins"		"-128.000000"
+		"zScaleMins"		"-136.000000"
+		"xScaleMaxs"		"256.000000"
+		"yScaleMaxs"		"128.000000"
+		"zScaleMaxs"		"136.000000"
+	}
+	"end"
+	{
+		"xpos"		"-8512.000000"
+		"ypos"		"8408.000000"
+		"zpos"		"-10444.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-448.000000"
+		"yScaleMins"		"-168.000000"
+		"zScaleMins"		"-180.000000"
+		"xScaleMaxs"		"448.000000"
+		"yScaleMaxs"		"168.000000"
+		"zScaleMaxs"		"180.000000"
+	}
+}

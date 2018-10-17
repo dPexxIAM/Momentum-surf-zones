@@ -1,0 +1,35 @@
+"surf_unreal_njv"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-7260.000000"
+		"ypos"		"-8.000000"
+		"zpos"		"10696.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-180.000000"
+		"yScaleMins"		"-144.000000"
+		"zScaleMins"		"-80.000000"
+		"xScaleMaxs"		"180.000000"
+		"yScaleMaxs"		"144.000000"
+		"zScaleMaxs"		"80.000000"
+	}
+	"end"
+	{
+		"xpos"		"3968.000000"
+		"ypos"		"-8.000000"
+		"zpos"		"-12880.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-264.000000"
+		"yScaleMins"		"-472.000000"
+		"zScaleMins"		"-232.000000"
+		"xScaleMaxs"		"264.000000"
+		"yScaleMaxs"		"472.000000"
+		"zScaleMaxs"		"232.000000"
+	}
+}

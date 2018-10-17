@@ -1,0 +1,35 @@
+"surf_mesa_aether"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-13564.000000"
+		"ypos"		"-15028.000000"
+		"zpos"		"15860.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-44.000000"
+		"yScaleMins"		"-188.000000"
+		"zScaleMins"		"-60.000000"
+		"xScaleMaxs"		"44.000000"
+		"yScaleMaxs"		"188.000000"
+		"zScaleMaxs"		"60.000000"
+	}
+	"end"
+	{
+		"xpos"		"5760.000000"
+		"ypos"		"14476.000000"
+		"zpos"		"-7900.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-224.000000"
+		"yScaleMins"		"-220.000000"
+		"zScaleMins"		"-36.000000"
+		"xScaleMaxs"		"224.000000"
+		"yScaleMaxs"		"220.000000"
+		"zScaleMaxs"		"36.000000"
+	}
+}

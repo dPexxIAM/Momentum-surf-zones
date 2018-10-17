@@ -1,0 +1,35 @@
+"surf_stagejuan_ksf"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-14656.000000"
+		"ypos"		"2656.000000"
+		"zpos"		"13552.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-512.000000"
+		"yScaleMins"		"-512.000000"
+		"zScaleMins"		"-272.000000"
+		"xScaleMaxs"		"512.000000"
+		"yScaleMaxs"		"512.000000"
+		"zScaleMaxs"		"272.000000"
+	}
+	"end"
+	{
+		"xpos"		"4224.000000"
+		"ypos"		"-3872.000000"
+		"zpos"		"-3680.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-256.000000"
+		"yScaleMins"		"-736.000000"
+		"zScaleMins"		"-224.000000"
+		"xScaleMaxs"		"256.000000"
+		"yScaleMaxs"		"736.000000"
+		"zScaleMaxs"		"224.000000"
+	}
+}

@@ -1,0 +1,35 @@
+"surf_mephobia_final"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"4228.000000"
+		"ypos"		"2304.000000"
+		"zpos"		"-7352.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-548.000000"
+		"yScaleMins"		"-216.000000"
+		"zScaleMins"		"-96.000000"
+		"xScaleMaxs"		"548.000000"
+		"yScaleMaxs"		"216.000000"
+		"zScaleMaxs"		"96.000000"
+	}
+	"end"
+	{
+		"xpos"		"220.000000"
+		"ypos"		"-12656.000000"
+		"zpos"		"3728.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-524.000000"
+		"yScaleMins"		"-416.000000"
+		"zScaleMins"		"-240.000000"
+		"xScaleMaxs"		"524.000000"
+		"yScaleMaxs"		"416.000000"
+		"zScaleMaxs"		"240.000000"
+	}
+}

@@ -1,0 +1,35 @@
+"surf_stonework4"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-3076.000000"
+		"ypos"		"-7712.000000"
+		"zpos"		"11392.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-572.000000"
+		"yScaleMins"		"-288.000000"
+		"zScaleMins"		"-80.000000"
+		"xScaleMaxs"		"572.000000"
+		"yScaleMaxs"		"288.000000"
+		"zScaleMaxs"		"80.000000"
+	}
+	"end"
+	{
+		"xpos"		"9728.000000"
+		"ypos"		"4364.000000"
+		"zpos"		"-11632.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-1408.000000"
+		"yScaleMins"		"-396.000000"
+		"zScaleMins"		"-784.000000"
+		"xScaleMaxs"		"1408.000000"
+		"yScaleMaxs"		"396.000000"
+		"zScaleMaxs"		"784.000000"
+	}
+}

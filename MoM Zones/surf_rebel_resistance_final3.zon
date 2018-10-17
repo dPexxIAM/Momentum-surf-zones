@@ -1,0 +1,35 @@
+"surf_rebel_resistance_final3"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"-20.000000"
+		"ypos"		"-14400.000000"
+		"zpos"		"15036.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-132.000000"
+		"yScaleMins"		"-384.000000"
+		"zScaleMins"		"-52.000000"
+		"xScaleMaxs"		"132.000000"
+		"yScaleMaxs"		"384.000000"
+		"zScaleMaxs"		"52.000000"
+	}
+	"end"
+	{
+		"xpos"		"-9160.000000"
+		"ypos"		"4564.000000"
+		"zpos"		"-4564.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-80.000000"
+		"yScaleMins"		"-308.000000"
+		"zScaleMins"		"-52.000000"
+		"xScaleMaxs"		"80.000000"
+		"yScaleMaxs"		"308.000000"
+		"zScaleMaxs"		"52.000000"
+	}
+}

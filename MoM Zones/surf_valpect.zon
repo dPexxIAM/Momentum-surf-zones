@@ -1,0 +1,35 @@
+"surf_valpect"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"7488.000000"
+		"ypos"		"-2240.000000"
+		"zpos"		"704.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-64.000000"
+		"yScaleMins"		"-64.000000"
+		"zScaleMins"		"-64.000000"
+		"xScaleMaxs"		"64.000000"
+		"yScaleMaxs"		"64.000000"
+		"zScaleMaxs"		"64.000000"
+	}
+	"end"
+	{
+		"xpos"		"7040.000000"
+		"ypos"		"-1920.000000"
+		"zpos"		"5888.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-512.000000"
+		"yScaleMins"		"-256.000000"
+		"zScaleMins"		"-128.000000"
+		"xScaleMaxs"		"512.000000"
+		"yScaleMaxs"		"256.000000"
+		"zScaleMaxs"		"128.000000"
+	}
+}
